@@ -3,20 +3,15 @@ A repository of FLOSS donation options.
 
 ## Software in the public interest
 
-[SPI](http://www.spi-inc.org/) is a non-profit organization which was 
+>[SPI](http://www.spi-inc.org/) is a non-profit organization which was 
 founded to help organizations develop and distribute open hardware and 
-software. We encourage programmers to use the GNU General Public License 
-or other licenses that allow free redistribution and use of software, 
-and hardware developers to distribute documentation that will allow 
-device drivers to be written for their product.
+software. [...]
 
-SPI acts as a fiscal sponsor to many free and open source projects. FOSS 
-projects interested in becoming associated to SPI should read the 
-Associated Project HOWTO. Services offered to projects can be found 
-here. The relationship between SPI and associated projects is explained 
-here.
+>SPI acts as a fiscal sponsor to many free and open source projects.
 
 (from the official site)
+
+* [Donate via click & pledge to SPI projects](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
 
 ## Linux Distributions
 
