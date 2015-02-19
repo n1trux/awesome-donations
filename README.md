@@ -16,12 +16,21 @@ software. [...]
 
 * [Donate via click & pledge to SPI projects](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
 
+### Open Source Initiative
+
+The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
+
+* [Donate](http://opensource.org/donate), [Flattr](https://flattr.com/thing/448050/Open-Source-Initiative-OSI)
+
 ## Linux Distributions
 * [Arch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
 * [Debian](https://www.debian.org/) – [USA ePay](https://www.debian.org/donations#spi-usa-epay)
 
 ## Linux Software
-* [OpenShot](http://openshot.org/) – [PayPal](http://openshot.org/donate/)
+* [DeaDBeef](http://deadbeef.sourceforge.net) (audio player) – [PayPal, Flattr](http://deadbeef.sourceforge.net/support.html)
+* [GIMP](http://www.gimp.org/) (image manipulation) – [PayPal](http://www.gimp.org/donating/#paypal), [Flattr](http://www.gimp.org/donating/#flattr), [Bitcoin](http://www.gimp.org/donating/#bitcoin), [Wire Transfer](http://www.gimp.org/donating/#wire), [Cheque](http://www.gimp.org/donating/#cheque)
+* [LibreOffice](http://www.libreoffice.org/) (powerful office suite) – [Credit Card, PayPal, Bitcoin, Flattr, Wire Transfer](http://www.libreoffice.org/donate/)
+* [OpenShot](http://openshot.org/) (video editing) – [PayPal](http://openshot.org/donate/)
 
 ## ToDo
 
@@ -36,13 +45,10 @@ software. [...]
 
 ### Linux Software
 * Geany
-* GIMP
-* LibreOffice
 * InkScape
 * Mumble
 * Pidgin
 * Clementine
-* DeaDBeeF
 * KeePass(X)
 * Firefox
 
@@ -53,7 +59,6 @@ software. [...]
 * PGP
 
 ### Financing projects/organizations
-* Open Source Initiative
 * Linux Foundation
 
 ### Donation services
