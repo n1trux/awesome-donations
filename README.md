@@ -28,9 +28,10 @@ The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corpor
 
 ## Linux Software
 * [DeaDBeef](http://deadbeef.sourceforge.net) (audio player) – [PayPal, Flattr](http://deadbeef.sourceforge.net/support.html)
-* [Mozilla Firefox](https://www.mozilla.org/firefox/) (web browser) – [donate to Mozilla Foundation via PayPal / Credit Card](https://sendto.mozilla.org), [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/), [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29], [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
+* [Mozilla Firefox](https://www.mozilla.org/firefox/) (web browser) – [donate to Mozilla Foundation via PayPal / Credit Card](https://sendto.mozilla.org), [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/), [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29), [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
 * [GIMP](http://www.gimp.org/) (image manipulation) – [PayPal](http://www.gimp.org/donating/#paypal), [Flattr](http://www.gimp.org/donating/#flattr), [Bitcoin](http://www.gimp.org/donating/#bitcoin), [Wire Transfer](http://www.gimp.org/donating/#wire), [Cheque](http://www.gimp.org/donating/#cheque)
 * [LibreOffice](http://www.libreoffice.org/) (powerful office suite) – [Credit Card, PayPal, Bitcoin, Flattr, Wire Transfer](http://www.libreoffice.org/donate/)
+* [LyX](http://www.lyx.org) (WYSIWYG LaTeX editor) – [PayPal](http://www.lyx.org/Donate)
 * [OpenShot](http://openshot.org/) (video editing) – [PayPal](http://openshot.org/donate/)
 
 ## ToDo
