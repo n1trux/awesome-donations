@@ -36,6 +36,18 @@ The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corpor
 [Donate-FSF]:       http://www.fsf.org/donate/
 [Donate-FSF-other]: https://my.fsf.org/donate/other/
 
+### Software Freedom Law Center
+
+> The [Software Freedom Law Center][SFLC] provides pro-bono legal services to
+> developers of Free, Libre, and Open Source Software.
+
+- [Donate][Donate-SFLC].
+    - Supported methods include: check, Network for Good (U.S. only), Paypal
+      and Flattr.
+
+[SFLC]:        https://www.softwarefreedom.org/
+[Donate-SFLC]: https://www.softwarefreedom.org/donate/
+
 ## Linux Distributions
 * [Arch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
 * [Debian](https://www.debian.org/) – [USA ePay](https://www.debian.org/donations#spi-usa-epay)
