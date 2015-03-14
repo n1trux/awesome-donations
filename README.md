@@ -48,6 +48,22 @@ The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corpor
 [SFLC]:        https://www.softwarefreedom.org/
 [Donate-SFLC]: https://www.softwarefreedom.org/donate/
 
+### Software Freedom Conservancy
+
+> [Software Freedom Conservancy][SFC] is a not-for-profit organization that
+> helps promote, improve, develop, and defend Free, Libre, and Open Source
+> Software (FLOSS) projects. Conservancy provides a non-profit home and
+> infrastructure for FLOSS projects. This allows FLOSS developers to focus on
+> what they do best — writing and improving FLOSS for the general public —
+> while Conservancy takes care of the projects' needs that do not relate
+> directly to software development and documentation.
+
+- [Donate][Donate-SFC].
+    - Supported methods include: check, Paypal, Flattr and wire transfer.
+
+[SFC]:        https://sfconservancy.org/
+[Donate-SFC]: https://sfconservancy.org/donate/
+
 ## Linux Distributions
 * [Arch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
 * [Debian](https://www.debian.org/) – [USA ePay](https://www.debian.org/donations#spi-usa-epay)
