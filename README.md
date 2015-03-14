@@ -22,6 +22,48 @@ The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corpor
 
 * [Donate](http://opensource.org/donate), [Flattr](https://flattr.com/thing/448050/Open-Source-Initiative-OSI)
 
+### Free Software Foundation
+
+> The [Free Software Foundation][FSF] (FSF) is a nonprofit with a worldwide
+> mission to promote computer user freedom and to defend the rights of all free
+> software users.
+
+- [Donate][Donate-FSF].
+    - Supported methods include: check, credit card, debit card, Paypal,
+      Flattr, Bitcoin, Litecoin and [others][Donate-FSF-other].
+
+[FSF]:              http://www.fsf.org/
+[Donate-FSF]:       http://www.fsf.org/donate/
+[Donate-FSF-other]: https://my.fsf.org/donate/other/
+
+### Software Freedom Law Center
+
+> The [Software Freedom Law Center][SFLC] provides pro-bono legal services to
+> developers of Free, Libre, and Open Source Software.
+
+- [Donate][Donate-SFLC].
+    - Supported methods include: check, Network for Good (U.S. only), Paypal
+      and Flattr.
+
+[SFLC]:        https://www.softwarefreedom.org/
+[Donate-SFLC]: https://www.softwarefreedom.org/donate/
+
+### Software Freedom Conservancy
+
+> [Software Freedom Conservancy][SFC] is a not-for-profit organization that
+> helps promote, improve, develop, and defend Free, Libre, and Open Source
+> Software (FLOSS) projects. Conservancy provides a non-profit home and
+> infrastructure for FLOSS projects. This allows FLOSS developers to focus on
+> what they do best — writing and improving FLOSS for the general public —
+> while Conservancy takes care of the projects' needs that do not relate
+> directly to software development and documentation.
+
+- [Donate][Donate-SFC].
+    - Supported methods include: check, Paypal, Flattr and wire transfer.
+
+[SFC]:        https://sfconservancy.org/
+[Donate-SFC]: https://sfconservancy.org/donate/
+
 ## Linux Distributions
 * [Arch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
 * [Debian](https://www.debian.org/) – [USA ePay](https://www.debian.org/donations#spi-usa-epay)
