@@ -51,6 +51,11 @@ Feel free to create pull requests (three projects or more). You can also send th
 
 * [Donate via click & pledge to SPI projects](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
 
+## critical infrastructure software
+* [**O**penSSH, LibreSSL, OpenNTPD, OpenSMTPD](https://www.openssh.com/) – Like the other OpenBSD sub-projects, funding is generally done via the same [donation framework](https://www.openbsd.org/donations.html).
+* [OpenSSL](https://www.openssl.org) – [Yearly donations](https://www.openssl.org/support/donations.html) starting at $5000.
+* [GnuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
+
 ## Linux Distributions
 * [**A**rch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
 * [**D**ebian](https://www.debian.org/) – [USA ePay](https://www.debian.org/donations#spi-usa-epay)
@@ -61,10 +66,13 @@ Feel free to create pull requests (three projects or more). You can also send th
 * [**C**lementine](https://www.clementine-player.org/) (audio player) – no money accepted
 * [**D**eaDBeef](http://deadbeef.sourceforge.net) (audio player) – [PayPal, Flattr](http://deadbeef.sourceforge.net/support.html)
 * [Mozilla **F**irefox](https://www.mozilla.org/firefox/) (web browser) – [donate to Mozilla Foundation via PayPal / Credit Card](https://sendto.mozilla.org), [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/), [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29), [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
-* [**G**IMP](http://www.gimp.org/) (image manipulation) – [PayPal](http://www.gimp.org/donating/#paypal), [Flattr](http://www.gimp.org/donating/#flattr), [Bitcoin](http://www.gimp.org/donating/#bitcoin), [Wire Transfer](http://www.gimp.org/donating/#wire), [Cheque](http://www.gimp.org/donating/#cheque)
+* [**G**eany](http://www.geany.org/) (text editor) – [Paypal](https://www.geany.org/service/donate/)
+* [GIMP](http://www.gimp.org/) (image manipulation) – [PayPal](http://www.gimp.org/donating/#paypal), [Flattr](http://www.gimp.org/donating/#flattr), [Bitcoin](http://www.gimp.org/donating/#bitcoin), [Wire Transfer](http://www.gimp.org/donating/#wire), [Cheque](http://www.gimp.org/donating/#cheque)
+* [**I**nkScape](https://inkscape.org/) (vector graphics) – [Paypal, cash, cheque or international money order in US funds](https://inkscape.org/en/support-us/donate/)
 * [**K**eePassX](http://keepassx.org) (password management) – [Flattr](https://flattr.com/thing/49794/KeePassX), [PayPal](http://www.keepassx.org/)
 * [**L**ibreOffice](http://www.libreoffice.org/) (powerful office suite) – [Credit Card, PayPal, Bitcoin, Flattr, Wire Transfer](http://www.libreoffice.org/donate/)
 * [LyX](http://www.lyx.org) (WYSIWYG LaTeX editor) – [PayPal](http://www.lyx.org/Donate)
+* [**M**umble](https://wiki.mumble.info) (VoIP conference software) – [Paypal, Bitcoin](https://wiki.mumble.info/wiki/Donate)
 * [**O**penShot](http://openshot.org/) (video editing) – [PayPal](http://openshot.org/donate/)
 * [**P**idgin](http://pidgin.im) (instant messaging) – ???
 
@@ -78,17 +86,6 @@ Feel free to create pull requests (three projects or more). You can also send th
 * Ubuntu/Canonical
   * Ubuntu-based distributions (~~Xubuntu~~, Lubuntu, ...)
 * Slackware
-
-### Linux Software
-* Geany
-* InkScape
-* Mumble
-
-### critical infrastructure software
-* OpenSSH
-* OpenSSL
-* GPG
-* PGP
 
 ### Financing projects/organizations
 * Linux Foundation
