@@ -70,6 +70,7 @@ Feel free to create pull requests (three projects or more). You can also send th
 * [GIMP](http://www.gimp.org/) (image manipulation) – [PayPal](http://www.gimp.org/donating/#paypal), [Flattr](http://www.gimp.org/donating/#flattr), [Bitcoin](http://www.gimp.org/donating/#bitcoin), [Wire Transfer](http://www.gimp.org/donating/#wire), [Cheque](http://www.gimp.org/donating/#cheque)
 * [**I**nkScape](https://inkscape.org/) (vector graphics) – [Paypal, cash, cheque or international money order in US funds](https://inkscape.org/en/support-us/donate/)
 * [**K**eePassX](http://keepassx.org) (password management) – [Flattr](https://flattr.com/thing/49794/KeePassX), [PayPal](http://www.keepassx.org/)
+* [KeePassXC](https://keepassxc.org/) (password management, spiritual successor to KeePassX) – [Paypal, Flattr, Bitcoin, Dash, Patreon](https://keepassxc.org/donate/)
 * [**L**ibreOffice](http://www.libreoffice.org/) (powerful office suite) – [Credit Card, PayPal, Bitcoin, Flattr, Wire Transfer](http://www.libreoffice.org/donate/)
 * [LyX](http://www.lyx.org) (WYSIWYG LaTeX editor) – [PayPal](http://www.lyx.org/Donate)
 * [**M**umble](https://wiki.mumble.info) (VoIP conference software) – [Paypal, Bitcoin](https://wiki.mumble.info/wiki/Donate)
