@@ -77,6 +77,10 @@ Feel free to create pull requests (three projects or more). You can also send th
 * [**O**penShot](http://openshot.org/) (video editing) – [PayPal](http://openshot.org/donate/)
 * [**P**idgin](http://pidgin.im) (instant messaging) – ???
 
+### Donation services
+* [Flattr](https://flattr.com/)
+* [Liberapay](https://liberapay.com/)
+
 ## ToDo
 
 * Windows / Mac FLOSS
@@ -90,6 +94,3 @@ Feel free to create pull requests (three projects or more). You can also send th
 
 ### Financing projects/organizations
 * Linux Foundation
-
-### Donation services
-* Flattr
