@@ -181,6 +181,7 @@ Repositories
 * [**L**eon Tiekötter](https://liberapay.com/tiekoetter)
 * [**L**iberenet](https://wiki.librenet.co.za/about) [Liberapay](https://liberapay.com/librenet/)
 * [**R**iseUp](https://liberapay.com/riseup)
+* [**T**iekötter](https://www.tiekoetter.com/en/donate/) (He hosts several awesome projects like SearX)
 
 
 ### Open Hardware / Open Firmware
