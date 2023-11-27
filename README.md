@@ -20,6 +20,10 @@ Feel free to create pull requests (three projects or more). You can also send th
 ### The Linux Foundation
 https://www.linuxfoundation.org/about/donate
 
+Europe:
+
+https://linuxfoundation.eu
+
 ### Open Source Initiative
 
 > The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
@@ -98,6 +102,7 @@ Creators of tor, Tor-Browser, OnionShare, Orbot and more
 * [**O**penSuse](opensuse.org) ([Send them a mail](mailto:donations@opensuse.org?subject=Hardware Donations)
 
 ### Linux Desktops
+* [**B**udgie](https://opencollective.com/buddies-of-budgie)
 * [**G**NOME](https://www.gnome.org/donate/)
 * [**K**DE](https://kde.org/community/donations/)
 * [**X**FCE](https://docs.xfce.org/contribute/start#financial_contributions)
